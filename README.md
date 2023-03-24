@@ -22,7 +22,6 @@ Miembros
 
 
 
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este texto desde la práctica 1
 
 
 # Proceso de Diseño 
@@ -32,7 +31,12 @@ Miembros
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+Tablao Flamenco: Se centra en ofrecer actividades relacionadas únicamente con el concepto de tablao. Su objetivo aparente es dejar claro al usuario cuál es el servicio que se pretende ofrecer.
+
+Free Tour: Se trata de una web que ofrece tours gratuitos por Granada. Su modelo se centra en realizar recomendaciones y ofrecer tours atractivos para el usuario.
+
+Taller de Artesanía: El objetivo es ofrecer productos y servicios relacionados con la artesanía Nazarí, pero su estructura impide al usuario tener claro qué se ofrece de forma intuitiva. 
+
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
