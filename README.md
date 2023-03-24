@@ -56,9 +56,9 @@ Hemos seleccionado dos perfiles típicos, pero dispares, que son potenciales usu
 ----
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
 >>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+>>> - Enlace al documento:  https://github.com/ArturoAcf/DIU_Uxiono/blob/master/P1/Usability-review-template.xlsx
+>>> - Valoración final (numérica): 53
+>>> - Comentario sobre la valoración: Por una parte, a la página no le falta ningún elemento esencial. Sin embargo, no hay cohesión entre dichos componentes, por lo que su uso es poco intuitivo.
 
 
 ## Paso 2. UX Design  
