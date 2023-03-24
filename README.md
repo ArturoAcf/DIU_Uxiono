@@ -41,11 +41,14 @@ Taller de Artesanía: El objetivo es ofrecer productos y servicios relacionados 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+Hemos seleccionado dos perfiles típicos, pero dispares, que son potenciales usuarios del sitio web. Cada usuario tiene necesidades diferentes, pero encuentran problemas similares a la hora de interactuar con la web.
+
+
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
+![jm2](https://user-images.githubusercontent.com/93375380/227570001-f0fcebaf-b388-45d6-8883-3a406fb5ba6a.PNG)
 
 >>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
 
