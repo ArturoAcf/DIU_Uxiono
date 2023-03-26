@@ -60,7 +60,7 @@ Hemos seleccionado dos perfiles arquetípicos, pero dispares, que son potenciale
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
 >>>> SE deben incluir claramente los siguientes elementos
 >>> - Enlace al documento:  https://github.com/ArturoAcf/DIU_Uxiono/blob/master/P1/Usability-review-template.xlsx
->>> - Valoración final (numérica): 53
+>>> - Valoración final (numérica): 53/100
 >>> - Comentario sobre la valoración: Por una parte, a la página no le falta ningún elemento esencial. Sin embargo, no hay cohesión entre dichos componentes, por lo que su uso es poco intuitivo.
 
 
