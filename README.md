@@ -15,8 +15,8 @@ Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
- * :bust_in_silhouette:   Arturo Alonso Carbonero     :octocat:     
- * :bust_in_silhouette:  Andrés Piqueras Brück     :octocat:
+ * :bust_in_silhouette:   Arturo Alonso Carbonero     :octocat:    https://github.com/ArturoAcf 
+ * :bust_in_silhouette:  Andrés Piqueras Brück     :octocat:    https://github.com/AndresPiquerasBruck
 
 ----- 
 
