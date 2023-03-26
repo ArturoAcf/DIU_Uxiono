@@ -42,16 +42,18 @@ Taller de Artesanía: El objetivo es ofrecer productos y servicios relacionados 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
-Hemos seleccionado dos perfiles típicos, pero dispares, que son potenciales usuarios del sitio web. Cada usuario tiene necesidades diferentes, pero encuentran problemas similares a la hora de interactuar con la web.
+Hemos seleccionado dos perfiles arquetípicos, pero dispares, que son potenciales usuarios del sitio web. Cada usuario tiene necesidades diferentes, pero encuentran problemas similares a la hora de interactuar con la web.
 
-
+![p1_1](https://user-images.githubusercontent.com/93375380/227790871-e03af0ad-00db-4a15-af4f-43cb4003446c.PNG)
+![p2_1](https://user-images.githubusercontent.com/93375380/227790876-aa25680f-0afe-47cf-a227-5031194fa183.PNG)
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
+![p1_2](https://user-images.githubusercontent.com/93375380/227790882-8e4ea237-001b-4b8e-aa73-0dd3436ac65f.PNG)
 ![jm2](https://user-images.githubusercontent.com/93375380/227570001-f0fcebaf-b388-45d6-8883-3a406fb5ba6a.PNG)
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+>>> Se trata de perfiles que podrían requerir el uso de la web del taller. No son perfiles comunes, pero sirven para ejemplificar de forma adecuada dos puntos de vista de uso.
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
