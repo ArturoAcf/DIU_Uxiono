@@ -37,6 +37,7 @@ Free Tour: Se trata de una web que ofrece tours gratuitos por Granada. Su modelo
 
 Taller de Artesanía: El objetivo es ofrecer productos y servicios relacionados con la artesanía Nazarí, pero su estructura impide al usuario tener claro qué se ofrece de forma intuitiva. 
 
+![Competitor Analysis  DIU23  (Copy)](https://user-images.githubusercontent.com/93375380/227790824-3eb60bb6-0030-4367-86a8-35c99f5b67fb.jpg)
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
