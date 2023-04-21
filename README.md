@@ -113,6 +113,9 @@ Nuestra propuesta se centrará en crear experiencias memorables para los usuario
 Término | Significado     
 | ------------- | -------
   Login¿?  | acceder a plataforma
+  Home | Es la página principal de la web, donde los visitantes pueden obtener una vista general de los contenidos y servicios que se ofrecen en la página.
+
+
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
