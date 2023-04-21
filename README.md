@@ -126,8 +126,6 @@ Término | Significado
   Contacto | Proporciona información de contacto para que los usuarios puedan comunicarse con la entidad que gestiona la página web, como dirección, teléfono, correo o formulario de contacto.
 
 
-
-
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
