@@ -92,6 +92,8 @@ Nuestra propuesta se centrará en crear experiencias memorables para los usuario
 ----
 >>> Propuesta de valor 
 
+![ScopeCanvas](https://user-images.githubusercontent.com/93375380/233690074-47c4c2e1-d9d1-4db6-b750-519788f51a3c.PNG)
+
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
 
