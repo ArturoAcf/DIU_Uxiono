@@ -73,6 +73,8 @@ Hemos seleccionado dos perfiles arquetípicos, pero dispares, que son potenciale
 
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
 
+![Max](https://user-images.githubusercontent.com/93375380/233686736-ec53f8ce-08f6-4a92-92b6-0d4d653cf7cf.jpeg)
+![PancraciaII](https://user-images.githubusercontent.com/93375380/233686757-cd7cdec3-1863-40d3-87b4-d35d4a0fbb48.jpeg)
 
  Interesante | Críticas     
 | ------------- | -------
