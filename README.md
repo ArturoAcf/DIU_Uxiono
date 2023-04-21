@@ -99,6 +99,77 @@ Nuestra propuesta se centrará en crear experiencias memorables para los usuario
 
 >>> Definir "User Map" y "Task Flow" ... 
 
+Tareas / Grupos de Usuario
+Turistas
+Parejas
+Instituciones
+Excursiones del colegio
+Personas random
+Registrarse
+H
+H
+M
+M
+H
+Buscar servicios
+H
+H
+H
+H
+H
+Reservar servicio
+H
+H
+M
+H
+H
+Anular servicio
+M
+M
+L
+L
+M
+Dejar reseña
+M
+M
+L
+L
+M
+Colaborar
+
+
+
+
+L
+
+
+
+
+Gestionar el perfil
+M
+M
+H
+M
+M
+Solicitar ayuda
+L
+L
+L
+L
+L
+Publicar anuncios
+
+
+
+
+M
+
+
+
+
+
+
+
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
