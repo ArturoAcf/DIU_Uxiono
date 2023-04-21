@@ -86,7 +86,7 @@ Hemos seleccionado dos perfiles arquetípicos, pero dispares, que son potenciale
 >>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
 >>> (150-200 caracteres)
 
-Nuestra propuesta se centrará en crear experiencias memorables para los usuarios. Este enfonque consiste en ofrecer servicios que, de alguna forma u otra, innoven con respecto a la competencia. Por ejemplo, ofrecer a una pareja a punto de casarse la posibilidad de confeccionar ellos mismos elementos para su boda en nuestros talleres adaptanto la actividad a la situación, sería una forma de crear dicha experencia memorable para los usuarios.
+Nuestra propuesta se centrará en crear experiencias memorables para los usuarios. Este enfoque consiste en ofrecer servicios que, de alguna forma u otra, innoven con respecto a la competencia. Por ejemplo, ofrecer a una pareja a punto de casarse la posibilidad de confeccionar ellos mismos elementos para su boda en nuestros talleres adaptando la actividad a la situación, sería una forma de crear dicha experiencia memorable para los usuarios.
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
