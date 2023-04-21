@@ -103,10 +103,9 @@ Nuestra propuesta se centrará en crear experiencias memorables para los usuario
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
-Sitemap
+
 ![SiteMap](https://user-images.githubusercontent.com/93375380/233691528-e71e1e81-f141-43a0-b384-d49ed45cb512.PNG)
 
-Labelling
 ![Etiquetado](https://user-images.githubusercontent.com/93375380/233691871-4ab7933e-ba07-497b-b030-cdd1fbf3d0e9.PNG)
 
 >>> Identificar términos para diálogo con usuario  
