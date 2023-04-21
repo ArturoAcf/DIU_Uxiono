@@ -99,80 +99,14 @@ Nuestra propuesta se centrará en crear experiencias memorables para los usuario
 
 >>> Definir "User Map" y "Task Flow" ... 
 
-Tareas / Grupos de Usuario
-Turistas
-Parejas
-Instituciones
-Excursiones del colegio
-Personas random
-Registrarse
-H
-H
-M
-M
-H
-Buscar servicios
-H
-H
-H
-H
-H
-Reservar servicio
-H
-H
-M
-H
-H
-Anular servicio
-M
-M
-L
-L
-M
-Dejar reseña
-M
-M
-L
-L
-M
-Colaborar
-
-
-
-
-L
-
-
-
-
-Gestionar el perfil
-M
-M
-H
-M
-M
-Solicitar ayuda
-L
-L
-L
-L
-L
-Publicar anuncios
-
-
-
-
-M
-
-
-
-
-
-
-
+![AnálisisTareas](https://user-images.githubusercontent.com/93375380/233691484-907306f9-b9d4-4d7f-910f-4c748d3f2b09.PNG)
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
+Sitemap
+![SiteMap](https://user-images.githubusercontent.com/93375380/233691528-e71e1e81-f141-43a0-b384-d49ed45cb512.PNG)
+
+Labelling
 
 
 >>> Identificar términos para diálogo con usuario  
