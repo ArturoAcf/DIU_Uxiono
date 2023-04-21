@@ -131,6 +131,9 @@ Término | Significado
 
 >>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
 
+![Home](https://user-images.githubusercontent.com/93375380/233694122-0b9bf42f-1166-460a-9c49-7270a988a274.PNG)
+![Servicios](https://user-images.githubusercontent.com/93375380/233694140-62984d76-4c41-4355-a6dc-cba6ff394b7b.PNG)
+![AcercaDe](https://user-images.githubusercontent.com/93375380/233694148-0870e17a-fb31-4b4d-bcb8-f1e84148c696.PNG)
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
