@@ -106,14 +106,24 @@ Nuestra propuesta se centrará en crear experiencias memorables para los usuario
 
 ![SiteMap](https://user-images.githubusercontent.com/93375380/233691528-e71e1e81-f141-43a0-b384-d49ed45cb512.PNG)
 
-![Etiquetado](https://user-images.githubusercontent.com/93375380/233691871-4ab7933e-ba07-497b-b030-cdd1fbf3d0e9.PNG)
-
->>> Identificar términos para diálogo con usuario  
+>>> Labelling  
 
 Término | Significado     
 | ------------- | -------
-  Login¿?  | acceder a plataforma
+  Inicio de Sesión  | Permite a los usuarios registrados iniciar sesión en su cuenta para acceder a los servicios.
   Home | Es la página principal de la web, donde los visitantes pueden obtener una vista general de los contenidos y servicios que se ofrecen en la página.
+  Servicios | Proporciona una descripción general de los servicios que se ofrecen en la web, como productos, herramientas o servicios.
+  Seleccionar servicio | Permite a los usuarios elegir entre los distintos servicios disponibles.
+  Información | Proporciona información detallada sobre los servicios ofrecidos, incluyendo sus características, precios, beneficios y condiciones de uso.
+  Inscribirse | Permite a los usuarios realizar una inscripción en el servicio deseado.
+  Anular servicio | Permite a los usuarios cancelar un servicio que ya no desean realizar.
+  Valorar | Permite a los usuarios evaluar y dar su opinión sobre los servicios y contenidos que han utilizado, para ayudar a otros usuarios a tomar decisiones informadas.
+  Perfil de usuario | Muestra la información personal y los datos de los usuarios registrados como nombre, dirección, historial de compras y preferencias.
+  Configuración | Permite a los usuarios personalizar sus preferencias y configuraciones de la cuenta, como notificaciones, idioma, contraseñas y seguridad.
+  Servicios contratados | Muestra un resumen de los servicios que el usuario ha contratado y su estado actual, como fechas de renovación, precios y opciones de cancelación.
+  Sobre nosotros | Proporciona información sobre la entidad que gestiona la página web, su historia, misión, valores y objetivos.
+  FAQ | Proporciona respuestas a preguntas frecuentes que los usuarios puedan tener sobre los servicios, contenidos y el uso de la página web.
+  Contacto | Proporciona información de contacto para que los usuarios puedan comunicarse con la entidad que gestiona la página web, como dirección, teléfono, correo o formulario de contacto.
 
 
 
