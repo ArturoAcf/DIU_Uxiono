@@ -141,6 +141,10 @@ Término | Significado
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
 
+![image](https://github.com/ArturoAcf/DIU_Uxiono/assets/93375380/2ed52d17-a3d8-4de9-87d2-39b6a88a3052)
+![image](https://github.com/ArturoAcf/DIU_Uxiono/assets/93375380/c2b966de-5700-4580-a1e6-80b33229c4ad)
+![image](https://github.com/ArturoAcf/DIU_Uxiono/assets/93375380/d1e34991-189b-4da1-9f17-bbba6092ceae)
+![image](https://github.com/ArturoAcf/DIU_Uxiono/assets/93375380/2684ecba-034e-4dbf-ae74-a1e6c69a238b)
 
 >>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
 >>> Incluir Logotipo
@@ -150,6 +154,7 @@ Término | Significado
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
+![image](https://github.com/ArturoAcf/DIU_Uxiono/assets/93375380/3e636497-607e-4b14-ba8f-feee8527f4d9)
 
 >>> Plantear Landing Page 
 
