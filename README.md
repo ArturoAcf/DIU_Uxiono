@@ -160,7 +160,7 @@ Guía de estilos
 
 Paleta de colores 
 
-Los colores seleccionados se corresponden con colores comunmente relacionados con la cultura nazarí. En cuanto al rosa, será empleado de forma sutil en las actvidades de pareja.
+Los colores seleccionados se corresponden con colores comunmente relacionados con la cultura nazarí. En cuanto al rosa, será empleado de forma sutil en las actvidades de pareja. Hemos obtenidos los códigod de dichos colores en el siguiente sitio: https://coolors.co/.
 
 ![04ced27e-e9d9-40ef-a2d2-965e1a73ffaa](https://github.com/ArturoAcf/DIU_Uxiono/assets/93375380/79dd710a-6aec-4d4b-a2b5-5be362d66aab)
 
@@ -172,13 +172,15 @@ La tipografía seleccionada es simple y, con los colores adecuados, se mimetiza 
 
 Iconos
 
-Se trata de un conjunto de iconos simples que no llaman la atención y con una descripción visual óptima.
+Se trata de un conjunto de iconos simples que no llaman la atención y con una descripción visual óptima (https://www.flaticon.es/uicons/interface-icons).
 
 ![308e23da-5e66-4498-a28c-789bfdc808c6](https://github.com/ArturoAcf/DIU_Uxiono/assets/93375380/e0969d53-1689-49e0-8978-6f8b5a90f504)
 ![70f1f74f-e5b0-4ca8-8845-9bb5cfb26ba9](https://github.com/ArturoAcf/DIU_Uxiono/assets/93375380/d89de9fc-f598-49ef-b919-ae69b99062ae)
 
 >>> Estudio de Guidelines y Patrones IU a usar 
 >>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+
+En cuanto a los patrones de diseño, hemos investigado los ofrecidos por Material 3 (https://m3.material.io/). Ofrece pautas de diseño, buenas prácticas, guía de componentes, acceso a iconos, plantillas para Figma, etc.
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
