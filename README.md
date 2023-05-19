@@ -156,6 +156,11 @@ Término | Significado
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
+ICONOS
+
+![308e23da-5e66-4498-a28c-789bfdc808c6](https://github.com/ArturoAcf/DIU_Uxiono/assets/93375380/e0969d53-1689-49e0-8978-6f8b5a90f504)
+![70f1f74f-e5b0-4ca8-8845-9bb5cfb26ba9](https://github.com/ArturoAcf/DIU_Uxiono/assets/93375380/d89de9fc-f598-49ef-b919-ae69b99062ae)
+
 >>> Estudio de Guidelines y Patrones IU a usar 
 >>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
 
