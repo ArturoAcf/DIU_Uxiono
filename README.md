@@ -17,6 +17,7 @@ Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 El logo represnta un jarrón con cuatro manos, simulando la escena de la película 'Ghost'.
+
 ![image](https://github.com/ArturoAcf/DIU_Uxiono/assets/93375380/7893fcad-c130-4c7c-a475-350234e77c78)
 
 Miembros
