@@ -172,10 +172,9 @@ La tipografía seleccionada es simple y, con los colores adecuados, se mimetiza 
 
 Iconos
 
-Se trata de un conjunto de iconos simples que no llaman la atención y con una descripción visual óptima (https://www.flaticon.es/uicons/interface-icons).
+Se trata de un conjunto de iconos simples que no llaman la atención y con una descripción visual óptima (https://m3.material.io/styles/icons/overview).
 
-![308e23da-5e66-4498-a28c-789bfdc808c6](https://github.com/ArturoAcf/DIU_Uxiono/assets/93375380/e0969d53-1689-49e0-8978-6f8b5a90f504)
-![70f1f74f-e5b0-4ca8-8845-9bb5cfb26ba9](https://github.com/ArturoAcf/DIU_Uxiono/assets/93375380/d89de9fc-f598-49ef-b919-ae69b99062ae)
+![image](https://github.com/ArturoAcf/DIU_Uxiono/assets/93375380/4e26e664-e49b-4390-86c0-b66a9239871e)
 
 >>> Estudio de Guidelines y Patrones IU a usar 
 >>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
