@@ -160,7 +160,7 @@ Término | Significado
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
-![image](https://github.com/ArturoAcf/DIU_Uxiono/assets/93375380/3e636497-607e-4b14-ba8f-feee8527f4d9)
+
 
 >>> Plantear Landing Page 
 
@@ -194,6 +194,10 @@ En cuanto a los patrones de diseño, hemos investigado los ofrecidos por Materia
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
+
+Página de Inicio
+
+![image](https://github.com/ArturoAcf/DIU_Uxiono/assets/93375380/3e636497-607e-4b14-ba8f-feee8527f4d9)
 
 >>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
 
