@@ -156,7 +156,23 @@ Término | Significado
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
-ICONOS
+Guía de estilos
+
+Paleta de colores 
+
+Los colores seleccionados se corresponden con colores comunmente relacionados con la cultura nazarí. En cuanto al rosa, será empleado de forma sutil en las actvidades de pareja.
+
+![04ced27e-e9d9-40ef-a2d2-965e1a73ffaa](https://github.com/ArturoAcf/DIU_Uxiono/assets/93375380/79dd710a-6aec-4d4b-a2b5-5be362d66aab)
+
+Tipografía
+
+La tipografía seleccionada es simple y, con los colores adecuados, se mimetiza con la temática de la página.
+
+![000e9b4c-58e2-45a9-9066-4b7daa5748ca](https://github.com/ArturoAcf/DIU_Uxiono/assets/93375380/b8533d01-19b2-4098-9baf-79895dc27af5)
+
+Iconos
+
+Se trata de un conjunto de iconos simples que no llaman la atención y con una descripción visual óptima.
 
 ![308e23da-5e66-4498-a28c-789bfdc808c6](https://github.com/ArturoAcf/DIU_Uxiono/assets/93375380/e0969d53-1689-49e0-8978-6f8b5a90f504)
 ![70f1f74f-e5b0-4ca8-8845-9bb5cfb26ba9](https://github.com/ArturoAcf/DIU_Uxiono/assets/93375380/d89de9fc-f598-49ef-b919-ae69b99062ae)
