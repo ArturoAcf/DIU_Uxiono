@@ -227,6 +227,7 @@ Tienda
 >>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
 
 
+
 ## Paso 4. Evaluación 
 
 
