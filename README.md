@@ -189,7 +189,7 @@ Iconos
 
 Se trata de un conjunto de iconos simples que no llaman la atención y con una descripción visual óptima (https://m3.material.io/styles/icons/overview).
 
-![image](https://github.com/ArturoAcf/DIU_Uxiono/assets/93375380/4e26e664-e49b-4390-86c0-b66a9239871e)
+![Iconos](https://github.com/ArturoAcf/DIU_Uxiono/assets/93375380/21939dc3-a974-426c-b232-a84f7301f617)
 
 >>> Estudio de Guidelines y Patrones IU a usar 
 >>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
