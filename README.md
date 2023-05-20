@@ -226,6 +226,7 @@ Tienda
 >>> Publicar my Case Study en Github..
 >>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
 
+https://github.com/ArturoAcf/DIU_Uxiono/blob/master/README.md
 
 
 ## Paso 4. Evaluación 
