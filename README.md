@@ -7,6 +7,8 @@ Updated: 11/1/2023
 Proyecto: 
 >>> Decida el nombre corto de su propuesta en la práctica 2 
 
+Memorias Nazaríes
+
 Descripción: 
 
 >>> Describa la idea de su producto en la práctica 2 
