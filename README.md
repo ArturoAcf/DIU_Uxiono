@@ -202,7 +202,7 @@ En cuanto a los patrones de diseño, hemos investigado los ofrecidos por Materia
 Página de Inicio
 
 ![Inicio](https://github.com/ArturoAcf/DIU_Uxiono/assets/93375380/0ad07668-60f4-4bf3-afa8-3951e36c8ab4)
-![Inicio2](https://github.com/ArturoAcf/DIU_Uxiono/assets/93375380/9c2ea501-6917-4e2d-8f54-2dac19ea499c)
+![Inicio2](https://github.com/ArturoAcf/DIU_Uxiono/assets/93375380/ae9ec465-cdea-4d77-98f8-796d5624b783)
 
 Actividades
 
