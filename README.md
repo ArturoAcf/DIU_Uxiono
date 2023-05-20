@@ -150,7 +150,7 @@ Término | Significado
 -----
 
 ![image](https://github.com/ArturoAcf/DIU_Uxiono/assets/93375380/2ed52d17-a3d8-4de9-87d2-39b6a88a3052)
-![image](https://github.com/ArturoAcf/DIU_Uxiono/assets/93375380/c2b966de-5700-4580-a1e6-80b33229c4ad)
+![Moodboard2](https://github.com/ArturoAcf/DIU_Uxiono/assets/93375380/37e40f60-8b0e-4327-a505-d3c9ffee35d3)
 ![image](https://github.com/ArturoAcf/DIU_Uxiono/assets/93375380/d1e34991-189b-4da1-9f17-bbba6092ceae)
 ![image](https://github.com/ArturoAcf/DIU_Uxiono/assets/93375380/2684ecba-034e-4dbf-ae74-a1e6c69a238b)
 
@@ -177,7 +177,7 @@ Paleta de colores
 
 Los colores seleccionados se corresponden con colores comunmente relacionados con la cultura nazarí. En cuanto al rosa, será empleado de forma sutil en las actvidades de pareja. Hemos obtenidos los códigod de dichos colores en el siguiente sitio: https://coolors.co/.
 
-![04ced27e-e9d9-40ef-a2d2-965e1a73ffaa](https://github.com/ArturoAcf/DIU_Uxiono/assets/93375380/79dd710a-6aec-4d4b-a2b5-5be362d66aab)
+![Paleta de colores](https://github.com/ArturoAcf/DIU_Uxiono/assets/93375380/874ad3a3-8599-45de-8963-39b06635b2b5)
 
 Tipografía
 
