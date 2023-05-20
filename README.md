@@ -7,7 +7,7 @@ Updated: 11/1/2023
 Proyecto: 
 >>> Decida el nombre corto de su propuesta en la práctica 2 
 
-Memorias Nazaríes
+Artesanía Nazarí
 
 Descripción: 
 
@@ -162,9 +162,11 @@ Término | Significado
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
-
-
 >>> Plantear Landing Page 
+
+![Landing1](https://github.com/ArturoAcf/DIU_Uxiono/assets/93375380/901b14b1-1a1f-43aa-a53b-98a35e7be21c)
+![Landing2](https://github.com/ArturoAcf/DIU_Uxiono/assets/93375380/81cab44a-5822-4f76-984c-5328b5836d72)
+![Landing3](https://github.com/ArturoAcf/DIU_Uxiono/assets/93375380/f0119541-b89f-4529-b902-009a9043b8a4)
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
@@ -199,7 +201,20 @@ En cuanto a los patrones de diseño, hemos investigado los ofrecidos por Materia
 
 Página de Inicio
 
-![image](https://github.com/ArturoAcf/DIU_Uxiono/assets/93375380/3e636497-607e-4b14-ba8f-feee8527f4d9)
+![Inicio](https://github.com/ArturoAcf/DIU_Uxiono/assets/93375380/0ad07668-60f4-4bf3-afa8-3951e36c8ab4)
+![Inicio2](https://github.com/ArturoAcf/DIU_Uxiono/assets/93375380/96a8369c-1f22-483b-9ec3-fbbd2922e85d)
+
+Actividades
+
+![Actividades](https://github.com/ArturoAcf/DIU_Uxiono/assets/93375380/1aac5a21-c1e2-4f20-aa71-486142a81281)
+
+Actividades para parejas
+
+![Parejas](https://github.com/ArturoAcf/DIU_Uxiono/assets/93375380/cfa9186d-48d8-4aa7-b1ab-d99cf97b4b02)
+
+Tienda
+
+![Tienda](https://github.com/ArturoAcf/DIU_Uxiono/assets/93375380/058d3bb4-ad45-421e-be41-5399ff5c1d0b)
 
 >>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
 
