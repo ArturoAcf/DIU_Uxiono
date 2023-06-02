@@ -231,12 +231,14 @@ https://github.com/ArturoAcf/DIU_Uxiono/blob/master/README.md
 
 ## Paso 4. Evaluación 
 
-
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
 
-
 >>> Breve descripción del caso asignado con enlace a  su repositorio Github
+
+Permite disfrutar de espectáculos flamencos en directo por Granada mediante la venta de entradas para eventos.
+
+https://github.com/ArturoAcf/DIU_Uxiono/blob/master/P4/cuestionario-SUS.xlsx
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
@@ -245,16 +247,19 @@ https://github.com/ArturoAcf/DIU_Uxiono/blob/master/README.md
 >>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
  
 
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| Usuarios | Sexo/Edad     | Ocupación   |               Exp.TIC    | Personalidad | Plataforma | TestA/B
+| -------------  | -------- | ----------- | -----------  | -----------  | ----------   | ----
+| Pedro Sánchez  | H / 51   | Presidente del gobierno    | Media        | Prepotente   | Web.   | A 
+| Jordi Wild     | H / 38   | Podcaster                  | Alto         | Salvaje      | Web    | A 
+| Señora         | M / 92   | Jubilada                   | Baja         | Emocional    | Web    | B 
+| Irene Monetero | M / 35   | Ministra                   | Alto         | Irascible    | Web    | B 
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
+
+https://github.com/ArturoAcf/DIU_Uxiono/blob/master/P4/cuestionario-SUS.xlsx
+https://github.com/ArturoAcf/DIU_Uxiono/blob/master/P4/cuestionario-SUS.pdf
 
 >>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
 http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
@@ -262,15 +267,14 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 
 >>> Adjuntar captura de imagen con los resultados + Valoración personal 
 
+![image](https://github.com/ArturoAcf/DIU_Uxiono/assets/93375380/dd711aba-aa49-48cc-83bb-1073adced981)
+
+El perfil de los usuarios genera diferencia en los resultados. Sin embargo, el sitio asignado, salvo por la paleta de colores, cuenta con un diseño bien cuidado.
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
 >> Añadir report de usabilidad para práctica B (la de los compañeros)
-
-
-
->>> Valoración personal 
 
 
 >>> ## Paso 5. Evaluación de Accesibilidad  (no necesaria)
