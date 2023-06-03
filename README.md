@@ -293,7 +293,15 @@ https://github.com/ArturoAcf/DIU_Uxiono/blob/master/P4/UsabilityReportB.pdf
 
 >>> 5.c Breve resumen del estudio de accesibilidad (de práctica 1) y puntos fuertes y de mejora de los criterios de accesibilidad de tu diseño propuesto en Práctica 4.
 
+## Paso 5. Eye Tracking
 
+Usuario que ha realizado el experimento: Enrique José Merino Arribas
+
+![1_1](https://github.com/ArturoAcf/DIU_Uxiono/assets/93375380/540291d4-c62f-460f-accc-aa8486acd050)
+![1_2](https://github.com/ArturoAcf/DIU_Uxiono/assets/93375380/978ea2fb-cf42-4b5c-a05d-0428ef453184)
+![2](https://github.com/ArturoAcf/DIU_Uxiono/assets/93375380/70517cd7-40c8-406d-bfdc-23741aef08d9)
+![3](https://github.com/ArturoAcf/DIU_Uxiono/assets/93375380/abd1e3cf-862d-4bf5-b818-431570e1c5cc)
+![4](https://github.com/ArturoAcf/DIU_Uxiono/assets/93375380/08bdc133-38e6-46ff-87cf-08b10babbc27)
 
 ## Conclusión final / Valoración de las prácticas
 
