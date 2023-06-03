@@ -276,6 +276,7 @@ El perfil de los usuarios genera diferencia en los resultados. Sin embargo, el s
 
 >> Añadir report de usabilidad para práctica B (la de los compañeros)
 
+https://github.com/ArturoAcf/DIU_Uxiono/blob/master/P4/UsabilityReportB.pdf
 
 >>> ## Paso 5. Evaluación de Accesibilidad  (no necesaria)
 
